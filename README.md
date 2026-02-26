@@ -69,4 +69,4 @@ O modelo demonstrou uma alta correlação com os preços reais, atingindo um **R
 > **Nota:** Este projeto tem fins educacionais e não deve ser utilizado como recomendação de investimento. O mercado financeiro é volátil e modelos lineares simples possuem limitações.
 
 ---
-Desenvolvido por [Seu Nome] com auxílio do Manus AI.
+Desenvolvido por [Seu Nome] com auxílio
